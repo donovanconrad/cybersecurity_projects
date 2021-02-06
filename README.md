@@ -16,7 +16,7 @@
 * Acted as a Red Team Operator by exposing vulnerabilities and taking control of the target machine.
 * Acted as a Blue Team member and identified the attack via metricbeat logs with Kibana.
 * Finally, presented findings and proposed alarms and mitigation strategies to prevent future attacks.
-[Project 2Link](https://github.com/donovanconrad/cybersecurity_projects/blob/main/Project2/Project2Presentation.pdf)
+[Project 2Link](https://github.com/donovanconrad/cybersecurity_projects/blob/main/Project2/Project2PresentationDonovanConrad.pdf)
 
 
 

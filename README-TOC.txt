@@ -14,4 +14,4 @@ Screenshots - contains Azure screenshots for VM and network layout, etc.
 
 Project1 - README-P1.md explaining ELK Deployment Project
 
-Project2 - Project2Presentation.pdf explaining Capstone Project
+Project2 - Project2PresentationDonovanConrad.pdf explaining Capstone Project
